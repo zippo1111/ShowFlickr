@@ -1,0 +1,6 @@
+framework module Pods_ShoeOsVersionTests {
+  umbrella header "Pods-ShoeOsVersionTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
